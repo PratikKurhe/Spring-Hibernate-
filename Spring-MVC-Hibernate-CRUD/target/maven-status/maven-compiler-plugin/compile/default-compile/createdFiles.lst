@@ -1,0 +1,8 @@
+com\itshaala\Configuration\AppConfi.class
+com\itshaala\Service\StudentService.class
+com\itshaala\Configuration\AppInit.class
+com\itshaala\Model\Student$StudentBuilder.class
+com\itshaala\Dao\StudentDao.class
+com\itshaala\Util\HibernateUtil.class
+com\itshaala\Model\Student.class
+com\itshaala\Controller\StudentController.class
